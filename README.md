@@ -42,12 +42,21 @@
   <img src="https://img.shields.io/badge/Gemini-AE3EC9?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
----
 
-### 📫 How to Reach Me  
-You can reach me via email at **vikasinisnk23@gmail.com** — I’d love to connect and collaborate on innovative AI projects!
+## 📫 How to Reach Me
 
----
+<p align="left">
+  <a href="https://github.com/VikasiniS37" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vikasini-s-259a92292/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:vikasinisnk23@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
+
 
 ### 🧩 LeetCode Profile  
 <p align="left">
