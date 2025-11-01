@@ -3,6 +3,8 @@
 
 <br>
 
+<div style="font-size:16px;">  
+
 ### 🌟 About Me  
 🔬 Fusing **data, logic, and imagination** to develop innovative AI solutions for real-world challenges.  
 📊 Skilled in **Machine Learning**, **Deep Learning**, **Data Structures & Algorithms**, and **Generative AI**.  
@@ -61,7 +63,6 @@
   </a>
 </p>
 
-
 <br>
 
 ## 👩‍💻 LeetCode Status:
@@ -71,3 +72,5 @@
     <img src="https://leetcard.jacoblin.cool/Vikasini-S?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
+
+</div>
