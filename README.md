@@ -7,8 +7,6 @@
 
 ### 🌟 About Me  
 
-### 🌟 About Me  
-
 <p style="font-size:18px; line-height:1.8;">
 🔬 Fusing <b>data, logic, and imagination</b> to develop innovative AI solutions for real-world challenges.  
 <br>
