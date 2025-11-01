@@ -45,9 +45,6 @@
 </p>
 
 
-
-## 📫 How to Reach Me
-
 ## 📫 How to Reach Me
 
 <p align="left">
@@ -64,10 +61,11 @@
 
 
 
+## 👩‍💻 LeetCode Status:
 
-### 🧩 LeetCode Profile  
 <p align="left">
-  <a href="https://leetcode.com/u/Vikasini-S/">
-    <img src="https://img.shields.io/badge/LeetCode-Vikasini--S-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  <a href="https://leetcode.com/u/Vikasini-S/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Vikasini-S?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
+
