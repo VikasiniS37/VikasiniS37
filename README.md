@@ -3,7 +3,7 @@
 
 <br>
 
-<div style="font-size:16px;">  
+<div style="font-size:20px;">  
 
 ### 🌟 About Me  
 🔬 Fusing **data, logic, and imagination** to develop innovative AI solutions for real-world challenges.  
