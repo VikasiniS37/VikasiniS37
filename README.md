@@ -1,13 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Vikasini</h1>
 <h3 align="center">A Passionate AI & ML Enthusiast</h3>
 
+<br>
 
 ### 🌟 About Me  
 🔬 Fusing **data, logic, and imagination** to develop innovative AI solutions for real-world challenges.  
 📊 Skilled in **Machine Learning**, **Deep Learning**, **Data Structures & Algorithms**, and **Generative AI**.  
 📈 Committed to **continuous learning** and redefining the limits of intelligent technology.
 
-
+<br>
 
 ### 💻 Technical Skills  
 
@@ -44,6 +45,7 @@
   <img src="https://img.shields.io/badge/Gemini-AE3EC9?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
+<br>
 
 ## 📬 How to Reach Me
 
@@ -59,8 +61,7 @@
   </a>
 </p>
 
-
-
+<br>
 
 ## 👩‍💻 LeetCode Status:
 
@@ -69,4 +70,3 @@
     <img src="https://leetcard.jacoblin.cool/Vikasini-S?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
-
