@@ -1,16 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Vikasini</h1>
 <h3 align="center">A Passionate AI & ML Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/VikasiniS37">
-    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vikasini-s-259a92292/">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-
 ### 🌟 About Me  
 🔬 Fusing **data, logic, and imagination** to develop innovative AI solutions for real-world challenges.  
 📊 Skilled in **Machine Learning**, **Deep Learning**, **Data Structures & Algorithms**, and **Generative AI**.  
