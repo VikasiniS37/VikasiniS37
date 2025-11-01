@@ -47,19 +47,20 @@
 
 <br>
 
-## 📬 How to Reach Me
+## 📫 How to Reach Me
 
 <p align="left">
-  <a href="https://github.com/Vikasini-S" style="text-decoration:none">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" />
+  <a href="https://github.com/VikasiniS37" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/vikasini-s" style="text-decoration:none">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
+  <a href="https://www.linkedin.com/in/vikasini-s-259a92292/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:vikasinis04@gmail.com" style="text-decoration:none">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+  <a href="mailto:vikasinisnk23@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
+
 
 <br>
 
