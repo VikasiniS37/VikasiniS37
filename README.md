@@ -7,9 +7,13 @@
 
 ### 🌟 About Me  
 
-<p style="font-size:18px;">
+### 🌟 About Me  
+
+<p style="font-size:18px; line-height:1.8;">
 🔬 Fusing <b>data, logic, and imagination</b> to develop innovative AI solutions for real-world challenges.  
+<br>
 📊 Skilled in <b>Machine Learning</b>, <b>Deep Learning</b>, <b>Data Structures & Algorithms</b>, and <b>Generative AI</b>.  
+<br>
 📈 Committed to <b>continuous learning</b> and redefining the limits of intelligent technology.
 </p>
 
