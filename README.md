@@ -3,12 +3,16 @@
 
 <br>
 
-<div style="font-size:20px;">  
+<div>  
 
 ### 🌟 About Me  
-🔬 Fusing **data, logic, and imagination** to develop innovative AI solutions for real-world challenges.  
-📊 Skilled in **Machine Learning**, **Deep Learning**, **Data Structures & Algorithms**, and **Generative AI**.  
-📈 Committed to **continuous learning** and redefining the limits of intelligent technology.
+
+<p style="font-size:18px;">
+🔬 Fusing <b>data, logic, and imagination</b> to develop innovative AI solutions for real-world challenges.  
+📊 Skilled in <b>Machine Learning</b>, <b>Deep Learning</b>, <b>Data Structures & Algorithms</b>, and <b>Generative AI</b>.  
+📈 Committed to <b>continuous learning</b> and redefining the limits of intelligent technology.
+</p>
+
 
 <br>
 
