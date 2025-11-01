@@ -1,10 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Vikasini</h1>
 <h3 align="center">A Passionate AI & ML Enthusiast</h3>
 
+
 ### 🌟 About Me  
 🔬 Fusing **data, logic, and imagination** to develop innovative AI solutions for real-world challenges.  
 📊 Skilled in **Machine Learning**, **Deep Learning**, **Data Structures & Algorithms**, and **Generative AI**.  
 📈 Committed to **continuous learning** and redefining the limits of intelligent technology.
+
 
 
 ### 💻 Technical Skills  
@@ -43,19 +45,24 @@
 </p>
 
 
+
+## 📫 How to Reach Me
+
 ## 📫 How to Reach Me
 
 <p align="left">
   <a href="https://github.com/VikasiniS37" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/vikasini-s-259a92292/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:vikasinisnk23@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
+
+
 
 
 ### 🧩 LeetCode Profile  
